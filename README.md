@@ -1,6 +1,6 @@
 # Discoverer: Deep Relational Learning with Predicate Invention
 
-Discoverer is a proof-of-concept of novel machine learning algorithm described in [my master thesis](https://github.com/asch/discoverer/raw/master/thesis/2013-thesis.pdf) and further extended in [Neurologic](https://github.com/asch/Neurologic) project.
+Discoverer is a proof-of-concept of novel machine learning algorithm described in [my master thesis](https://github.com/asch/discoverer/raw/master/thesis/2013-thesis.pdf) and further extended in [Neurologic](https://github.com/asch/Neurologic) project. There is a [poster](https://github.com/asch/discoverer/raw/master/poster/2014-sml.pdf) from SML.
 
 * Run `java -jar discoverer.jar -h` to see the usage.
 
